@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cousera Test
 
 You can use the [editor on GitHub](https://github.com/SSNegi23/Cousera-Test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
